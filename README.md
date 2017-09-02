@@ -9,3 +9,6 @@ Instructions:
 Tested on:
 1. Chrome 60.0
 2. Windows 10 64bit
+
+Demo:
+http://bookslibrary-avishayp.surge.sh/
